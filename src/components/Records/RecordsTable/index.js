@@ -1,14 +1,5 @@
 import { DeleteIcon } from '@chakra-ui/icons';
-import {
-  Table,
-  TableCaption,
-  Tbody,
-  Td,
-  Th,
-  Thead,
-  Tr,
-  Button,
-} from '@chakra-ui/react';
+import { Table, Tbody, Td, Th, Thead, Tr, Button } from '@chakra-ui/react';
 import EditableText from './EditableText';
 import PropTypes from 'prop-types';
 import { useMutation, useQueryClient } from 'react-query';
