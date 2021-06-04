@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+    padding: 10px;
+}
+
+.centered {
+    width: 1024px;
+    margin: auto;
+}
